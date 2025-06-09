@@ -1,11 +1,8 @@
 
----
 
 ## 🧠 Resumo da Aula: Entendendo o Hoisting em JavaScript
 
 Após compreendermos o conceito de escopo, esta aula avança para outra característica importante e específica do JavaScript: o **Hoisting**. Entender o hoisting é crucial para ter clareza sobre como o JavaScript interpreta seu código.
-
----
 
 ### 🏗️ O que é Hoisting?
 
